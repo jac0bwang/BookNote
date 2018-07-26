@@ -30,3 +30,13 @@
 
 - OS is now ready and can provide services
 - Any process calls OS services to fork/execute other processes
+
+
+
+
+
+
+
+
+
+
